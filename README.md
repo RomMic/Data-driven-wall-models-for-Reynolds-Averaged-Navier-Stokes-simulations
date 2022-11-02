@@ -1,4 +1,4 @@
-# Data-driven-wall-models-for-Reynolds-Averaged-Navier-Stokes-simulations-/-Neural-Network
+# Data-driven-wall-models-for-Reynolds-Averaged-Navier-Stokes-simulations
 Michele Romanelli, Samir Beneddine, Ivan Mary, Hélöise Beaugendre, Michel Bergmannb, Denis Sipp
 
-This repository contains the Tensorflow model used for the article redaction.
+This repository contains the Tensorflow model of the Feedforward Neural Network used for the article redaction.
